@@ -3,8 +3,8 @@
 Sleep well is a psychological horror game
 ## **The creators of Sleep Well**
 ### **Head Of Development**
--**Akane(Dev)**
+- **Akane(Dev)**
 ### **Head Of Art**
--**Ch3rry_B0mb(Art Director)**
+- **Ch3rry_B0mb(Art Director)**
 ### **Head Of Lore**
--**Clems(Lore)**
+- **Clems(Lore)**

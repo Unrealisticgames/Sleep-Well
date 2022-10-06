@@ -1,6 +1,6 @@
 # **Sleep well**
 ## **Table of content**
-[What is Sleep Well] (##-**What-is-Sleep-Well**)
+[What is Sleep Well](##-**What-is-Sleep-Well**)
 ## **What is Sleep Well**
 Sleep well is a psychological horror game
 ## **The creators of Sleep Well**

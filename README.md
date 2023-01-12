@@ -11,6 +11,6 @@ Sleep well is a psychological horror game
 ### **Head Of Art**
 - **Ch3rry_B0mb(Art Director)**
 ### **Head Of Lore**
-- **Clems(Lore)****(Unknown if still on project)**
+- **The_Fruity_Analyst(Lore)**
 ### **Head Of Music**
 - **Toby Williams(Music)**

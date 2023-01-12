@@ -13,4 +13,4 @@ Sleep well is a psychological horror game
 ### **Head Of Lore**
 - **Clems(Lore)****(Unknown if still on project)**
 ### **Head Of Music**
-- **Unknown Name(Music)**
+- **Toby Williams(Music)**

@@ -9,7 +9,7 @@ Sleep well is a psychological horror game
 ### **Head Of Development**
 - **Akane(Dev)**
 ### **Head Of Art**
-- **Ch3rry_B0mb(Art Director)**
+- **SadboySoup(Art Director)**
 ### **Head Of Lore**
 - **The_Fruity_Analyst(Lore)**
 ### **Head Of Music**
